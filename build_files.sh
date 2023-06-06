@@ -1,5 +1,5 @@
 echo "BUILD START"
-sudo apt-get install libsqlite3-dev
+apt-get install libsqlite3-dev
 python3.9 -m pip install django==3.2.10
 python3.9 -m pip install pysqlite
 python3.9 -m pip install -r requirements.txt
