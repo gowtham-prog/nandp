@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD032 MD033-->
-#  **Medezee - Online Medical appointments**
+#  **Notes and Password Manager**
 
 
 
